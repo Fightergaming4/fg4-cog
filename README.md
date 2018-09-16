@@ -23,6 +23,11 @@ sob                Sends a sob emoji.<p>
 confused           Sends a confused emoji.<p>
 laughing           Sends a laughing emoji.<p>
 rofl               Sends a Rolling on the floor laughing emoji.<p>
+thumbsup           Sends a thumb up emoji.<p>
+thumbsdown         Sends a thumb down emoji.<p>
+scream             Sends a scream emoji.
+shootme            Sends a funny emoji combo.
+deadly             Sends a funny deadly emoji combo.
  
 Join the community!
 
