@@ -1,5 +1,5 @@
 import discord
-from discord.ext import commands
+from redbot.core import commands
 
 class fg4cog:
     """Invites you to the support discord"""
@@ -67,25 +67,25 @@ class fg4cog:
 
         await ctx.send(":thumbsup:")
 		
-	@commands.command()
+    @commands.command()
     async def thumbsdown(self, ctx):
         """sends a thumb down emoji."""
 
         await ctx.send(":thumbsdown:")	
 	
-	@commands.command()
+    @commands.command()
     async def scream(self, ctx):
         """sends a scream emoji."""
 
         await ctx.send(":scream:")
 		
-	@commands.command()
+    @commands.command()
     async def shootme(self, ctx):
         """sends a funny emoji combo."""
 
         await ctx.send("very well then. :frowning: :gun:")
 		
-	@commands.command()
+    @commands.command()
     async def deadly(self, ctx):
         """sends a funny deadly emoji combo."""
 
