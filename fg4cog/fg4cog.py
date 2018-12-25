@@ -1,8 +1,7 @@
-import discord
 from redbot.core import commands
 
-class fg4cog:
-    """Invites you to the support discord"""
+class fg4cog(commands.Cog):
+    """Gives you a bunch of fun commands."""
 
     def __init__(self, bot):
         self.bot = bot
