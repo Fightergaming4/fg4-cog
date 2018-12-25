@@ -14,21 +14,12 @@ then do p]load mycog to load it.
 = Command list =<p>
 
 Command            Description
-supportinvite      Gives you a discord support server invite.<p>
-smile              Sends a smile emoji.<p>
-frowns             Sends a frown emoji.<p>
-tongue             Sends a stuck out tounge emoji.<p>
-thinking           Sends a thinking emoji.<p>
-sob                Sends a sob emoji.<p>
-confused           Sends a confused emoji.<p>
-laughing           Sends a laughing emoji.<p>
-rofl               Sends a Rolling on the floor laughing emoji.<p>
-thumbsup           Sends a thumb up emoji.<p>
-thumbsdown         Sends a thumb down emoji.<p>
-scream             Sends a scream emoji.
-shootme            Sends a funny emoji combo.
-deadly             Sends a funny deadly emoji combo.
- 
+OUTDATED USE AT YOUR OWN RISK!!!!!!!!
+OUTDATED USE AT YOUR OWN RISK!!!!!!!!
+OUTDATED USE AT YOUR OWN RISK!!!!!!!!
+OUTDATED USE AT YOUR OWN RISK!!!!!!!!
+OUTDATED USE AT YOUR OWN RISK!!!!!!!!
+
 Join the community!
 
 Red is in continuous development, and it’s supported by an active community which produces new content (cogs/plugins) for everyone to enjoy. New features are constantly added. If you can’t find what you’re looking for, we are open to suggestions! Stay tuned by joining the official server!
