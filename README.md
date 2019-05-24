@@ -36,7 +36,7 @@ https://discordapp.com/invite/red
 
 = Credits =
 
-Please DO give credits to me (Fightergaming4#1151 on discord)<p>
+Please DO give credits to me (Humorphoenix#1151 on discord)<p>
 Please DO NOT claim it as your own work.<p>
 This is OPEN SOURCE, and Redbot is also.<p><p>
 CREDITS to Twentysix26, the creators of Red Bot. Github: https://github.com/Cog-Creators/Red-DiscordBot<p>
